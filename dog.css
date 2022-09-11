@@ -1,0 +1,12 @@
+body{
+    background-color: skyblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 150;
+    font-stretch: semi-condensed;
+    color: #333333;
+    text-decoration: solid;
+}
+img{
+    border: 5px;
+    border-color: #000000;
+}

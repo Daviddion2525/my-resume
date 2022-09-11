@@ -1,0 +1,32 @@
+table{
+font-size: x-large;
+    border-color: rgb(40, 20, 20);
+
+}
+body{
+    background-color: cornflowerblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+table{
+    border-color: cadetblue;
+    border-style: double;
+}
+
+img{
+    border: 10px;
+    border-collapse: collapse;
+}
+a{
+    text-decoration:none;
+    color:blue;
+}
+a:hover{
+    color: steelblue;
+    text-decoration: underline;
+}
+
+
+
+
